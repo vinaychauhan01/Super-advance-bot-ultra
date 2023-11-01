@@ -4,8 +4,8 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ PC ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Parveen11122">PARVEEN11122</a> 😎
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/Parveen11122">PARVEEN11122</a>😎 </b>"""
+ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/vinaychauhanjaat">vinaychauhanjaat</a> 😎
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/vinaychauhanjaat">vinaychauhanjaat</a>😎 </b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  ᴍʏ ɴᴀᴍᴇ : {}😎
- ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Parveen11122'>PARVEEN11122</a>
+ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/vinaychauhanjaat'>vinaychauhanjaat</a>
  ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
  ʜᴏsᴛᴇᴅ ᴏɴ  : <a href='https://www.heroku.com/'>Hᴇʀᴏᴋᴜ</a>
@@ -23,7 +23,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>Sᴏʀʀʏ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Oғ Tʜɪs Bᴏᴛ ɪs Pʀɪᴠᴀᴛᴇ 
 Aᴅᴅ Tʜɪs Bᴏᴛ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Usᴇ Lɪᴋᴇ Yᴏᴜʀs😊
 </b>
-<b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @Parveen11122</b>
+<b>Cᴏɴᴛᴀᴄᴛ ᴄʀᴇᴀᴛᴏʀ : @vinaychauhanjaat</b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -45,7 +45,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Parveen11122)</code>
+<code>[Button Text](buttonurl:https://t.me/vinaychauhanjaat)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
